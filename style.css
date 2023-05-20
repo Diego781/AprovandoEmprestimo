@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background: linear-gradient(to right, #5d2de2b8, #0bce59da);
+
+}
+
+section {
+    box-shadow: 5px 5px 15px black;
+    border-radius: 10px;
+    width: 600px;
+    height: 350px;
+    padding: 16px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: 'Opens Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+
+}
